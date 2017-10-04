@@ -1,15 +1,4 @@
 # plc_100
 现代电气与西门子S7系列PLC百问百答
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-# title
-
-- [title](#title)
-  - [tot;e2](#tote2)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-# title
-## tot;e2
-
-
+配合《现代电气与PLC》课程，介绍一些S7-200/300/400PLC及配套电器方面的常见问题。都是些基础性的，初次使用时会遇到的，但课堂没有讲授的实用性内容。没有过深的、难的、复杂的、不易掌握的技术。课上讲授的以及教材里的最基本内容这里不再重复。
